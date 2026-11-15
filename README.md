@@ -1,5 +1,7 @@
 # Daymark
-Daymark is a simple daily goal-tracking app that helps you build habits, track your progress, and stay consistent.
+Daymark is a personal goal and habit-tracking iOS app designed to help you build consistency, stay intentional, and make progress one day at a time.
+
+With a clean interface, soft gradient aesthetics, and progress tracking, Daymark makes it easier to stay connected to the goals that matter to you.
 
 ## Tech Stack
 - **Language:** Swift
