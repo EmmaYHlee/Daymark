@@ -57,6 +57,3 @@ Views/: all 9 screens from your spec (splash, home, create/edit goal, goal detai
 | Settings | Manage app preferences |
 
 
-
-
-*Made with SwiftUI and a little everyday optimism.*
